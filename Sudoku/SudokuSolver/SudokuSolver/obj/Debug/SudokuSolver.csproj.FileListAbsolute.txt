@@ -1,0 +1,8 @@
+C:\Dev\Sudoku\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe.config
+C:\Dev\Sudoku\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe
+C:\Dev\Sudoku\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.pdb
+C:\Dev\Sudoku\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csproj.AssemblyReference.cache
+C:\Dev\Sudoku\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csproj.SuggestedBindingRedirects.cache
+C:\Dev\Sudoku\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csproj.CoreCompileInputs.cache
+C:\Dev\Sudoku\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.exe
+C:\Dev\Sudoku\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.pdb
